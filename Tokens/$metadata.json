@@ -1,0 +1,17 @@
+{
+  "tokenSetOrder": [
+    "global/border",
+    "global/color",
+    "global/opacity",
+    "global/shadow",
+    "global/sizing",
+    "global/spacing",
+    "global/typography",
+    "light",
+    "dark",
+    "components/button",
+    "components/input",
+    "components/dropdown",
+    "components/label"
+  ]
+}

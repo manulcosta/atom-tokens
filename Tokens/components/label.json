@@ -1,0 +1,64 @@
+{
+  "label": {
+    "spacing": {
+      "value": "{spacing.quarck}",
+      "type": "spacing"
+    },
+    "spacing-inset": {
+      "left": {
+        "value": "{spacing-inset.nano}",
+        "type": "spacing"
+      },
+      "right": {
+        "value": "{spacing-inset.nano}",
+        "type": "spacing"
+      },
+      "top": {
+        "value": "{spacing.quarck}",
+        "type": "spacing"
+      },
+      "bottom": {
+        "value": "{spacing.quarck}",
+        "type": "spacing"
+      }
+    },
+    "boder-radius": {
+      "value": "{border-radius.xs}",
+      "type": "borderRadius"
+    },
+    "over-image": {
+      "background": {
+        "color": {
+          "value": "{fg.inverse}",
+          "type": "color"
+        }
+      }
+    },
+    "color-bg": {
+      "background": {
+        "color": {
+          "value": "{fg.7}",
+          "type": "color"
+        }
+      }
+    },
+    "icon": {
+      "sizing": {
+        "value": "{sizing.xxs}",
+        "type": "sizing"
+      },
+      "color": {
+        "value": "{fg.1}",
+        "type": "color"
+      }
+    },
+    "font": {
+      "value": "{typography.labels.bold.upper}",
+      "type": "typography",
+      "color": {
+        "value": "{fg.1}",
+        "type": "color"
+      }
+    }
+  }
+}
