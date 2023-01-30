@@ -8,7 +8,7 @@
             "type": "color"
           },
           "font": {
-            "value": "{text.inverse}",
+            "value": "{text.neutrals.inverse}",
             "type": "color"
           },
           "icon": {
@@ -22,7 +22,7 @@
             "type": "color"
           },
           "font": {
-            "value": "{text.inverse}",
+            "value": "{text.neutrals.inverse}",
             "type": "color"
           },
           "icon": {
@@ -36,7 +36,7 @@
             "type": "color"
           },
           "font": {
-            "value": "{text.subtle}",
+            "value": "{text.neutrals.subtle}",
             "type": "color"
           },
           "icon": {
@@ -56,7 +56,7 @@
             "type": "color"
           },
           "font": {
-            "value": "{text.default}",
+            "value": "{text.neutrals.default}",
             "type": "color"
           },
           "icon": {
@@ -70,7 +70,7 @@
             "type": "color"
           },
           "font": {
-            "value": "{text.default}",
+            "value": "{text.neutrals.default}",
             "type": "color"
           },
           "icon": {
@@ -84,7 +84,7 @@
             "type": "color"
           },
           "font": {
-            "value": "{text.subtle}",
+            "value": "{text.neutrals.subtle}",
             "type": "color"
           },
           "icon": {
@@ -323,11 +323,11 @@
               "type": "color"
             },
             "font": {
-              "value": "{text.inverse}",
+              "value": "{text.neutrals.inverse}",
               "type": "color"
             },
             "Icon": {
-              "value": "{text.inverse}",
+              "value": "{text.neutrals.inverse}",
               "type": "color"
             }
           },
@@ -337,11 +337,11 @@
               "type": "color"
             },
             "font": {
-              "value": "{text.subtle}",
+              "value": "{text.neutrals.subtle}",
               "type": "color"
             },
             "Icon": {
-              "value": "{text.subtle}",
+              "value": "{text.neutrals.subtle}",
               "type": "color"
             }
           }
@@ -353,11 +353,11 @@
               "type": "color"
             },
             "font": {
-              "value": "{text.default}",
+              "value": "{text.neutrals.default}",
               "type": "color"
             },
             "Icon": {
-              "value": "{text.default}",
+              "value": "{text.neutrals.default}",
               "type": "color"
             }
           },
@@ -367,11 +367,11 @@
               "type": "color"
             },
             "font": {
-              "value": "{text.default}",
+              "value": "{text.neutrals.default}",
               "type": "color"
             },
             "Icon": {
-              "value": "{text.default}",
+              "value": "{text.neutrals.default}",
               "type": "color"
             }
           },
@@ -381,11 +381,11 @@
               "type": "color"
             },
             "font": {
-              "value": "{text.subtle}",
+              "value": "{text.neutrals.subtle}",
               "type": "color"
             },
             "Icon": {
-              "value": "{text.subtle}",
+              "value": "{text.neutrals.subtle}",
               "type": "color"
             }
           }

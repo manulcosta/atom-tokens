@@ -179,7 +179,7 @@
       },
       "font": {
         "color": {
-          "value": "{text.inverse}",
+          "value": "{text.neutrals.inverse}",
           "type": "color"
         }
       }
@@ -203,7 +203,7 @@
       },
       "font": {
         "color": {
-          "value": "{text.default}",
+          "value": "{text.neutrals.default}",
           "type": "color"
         }
       }
@@ -225,7 +225,7 @@
     "Default": {
       "font": {
         "color": {
-          "value": "{text.default}",
+          "value": "{text.neutrals.default}",
           "type": "color"
         }
       }

@@ -52,25 +52,51 @@
     }
   },
   "text": {
-    "default": {
-      "value": "{colors.black}",
-      "type": "color"
+    "neutrals": {
+      "default": {
+        "value": "{colors.black}",
+        "type": "color"
+      },
+      "muted": {
+        "value": "{colors.grey.700}",
+        "type": "color"
+      },
+      "subtle": {
+        "value": "{colors.grey.500}",
+        "type": "color"
+      },
+      "disable": {
+        "value": "{colors.grey.300}",
+        "type": "color"
+      },
+      "inverse": {
+        "value": "{colors.white}",
+        "type": "color"
+      }
     },
-    "muted": {
-      "value": "{colors.grey.700}",
-      "type": "color"
+    "accent": {
+      "default": {
+        "value": "{brand.secondary.default}",
+        "type": "color"
+      }
     },
-    "subtle": {
-      "value": "{colors.grey.500}",
-      "type": "color"
-    },
-    "disable": {
-      "value": "{colors.grey.300}",
-      "type": "color"
-    },
-    "inverse": {
-      "value": "{colors.white}",
-      "type": "color"
+    "feedback": {
+      "error": {
+        "value": "{colors.red.400}",
+        "type": "color"
+      },
+      "warning": {
+        "value": "{colors.orange.400}",
+        "type": "color"
+      },
+      "hot-fire-orange": {
+        "value": "{colors.red-orange.500}",
+        "type": "color"
+      },
+      "success": {
+        "value": "{colors.green.500}",
+        "type": "color"
+      }
     }
   },
   "accent": {
@@ -118,12 +144,6 @@
   "error": {
     "default": {
       "value": "{colors.red.400}",
-      "type": "color"
-    }
-  },
-  "warning": {
-    "default": {
-      "value": "{colors.orange.400}",
       "type": "color"
     }
   },
