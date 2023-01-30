@@ -52,21 +52,43 @@
     }
   },
   "text": {
-    "default": {
-      "value": "{colors.grey.50}",
-      "type": "color"
+    "neutrals": {
+      "default": {
+        "value": "{colors.grey.50}",
+        "type": "color"
+      },
+      "muted": {
+        "value": "{colors.grey.300}",
+        "type": "color"
+      },
+      "subtle": {
+        "value": "{colors.grey.500}",
+        "type": "color"
+      },
+      "inverse": {
+        "value": "{colors.black}",
+        "type": "color"
+      }
     },
-    "muted": {
-      "value": "{colors.grey.300}",
-      "type": "color"
+    "feedback": {
+      "error": {
+        "value": "{colors.light-red.400}",
+        "type": "color"
+      },
+      "warning": {
+        "value": "{colors.orange.400}",
+        "type": "color"
+      },
+      "success": {
+        "value": "{colors.green.400}",
+        "type": "color"
+      }
     },
-    "subtle": {
-      "value": "{colors.grey.500}",
-      "type": "color"
-    },
-    "inverse": {
-      "value": "{colors.black}",
-      "type": "color"
+    "accent": {
+      "default": {
+        "value": "{brand.secondary.default}",
+        "type": "color"
+      }
     }
   },
   "accent": {
@@ -103,27 +125,35 @@
       }
     }
   },
-  "error": {
-    "default": {
-      "value": "{colors.light-red.400}",
-      "type": "color"
-    }
-  },
-  "warning": {
-    "default": {
-      "value": "{colors.orange.400}",
-      "type": "color"
-    }
-  },
-  "success": {
-    "default": {
-      "value": "{colors.green.400}",
-      "type": "color"
+  "feedback": {
+    "error": {
+      "default": {
+        "value": "{colors.light-red.400}",
+        "type": "color"
+      }
+    },
+    "warning": {
+      "default": {
+        "value": "{colors.orange.400}",
+        "type": "color"
+      }
+    },
+    "success": {
+      "default": {
+        "value": "{colors.green.400}",
+        "type": "color"
+      }
     }
   },
   "premium": {
     "default": {
       "value": "{colors.gold.500}",
+      "type": "color"
+    }
+  },
+  "hot-fire-orange": {
+    "default": {
+      "value": "{colors.red-orange.500}",
       "type": "color"
     }
   }
