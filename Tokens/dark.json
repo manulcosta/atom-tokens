@@ -86,14 +86,14 @@
     },
     "accent": {
       "default": {
-        "value": "{brand.secondary.default}",
+        "value": "{brand.primaryB}",
         "type": "color"
       }
     }
   },
   "accent": {
     "default": {
-      "value": "{brand.secondary.default}",
+      "value": "{brand.primaryB}",
       "type": "color"
     }
   },

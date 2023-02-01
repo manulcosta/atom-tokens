@@ -223,7 +223,7 @@
     "product": {
       "default": {
         "background": {
-          "value": "{brand.secondary.default}",
+          "value": "{brand.primaryB}",
           "type": "color"
         },
         "font": {

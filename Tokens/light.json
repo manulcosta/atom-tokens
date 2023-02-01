@@ -76,7 +76,7 @@
     },
     "accent": {
       "default": {
-        "value": "{brand.secondary.default}",
+        "value": "{brand.primaryB}",
         "type": "color"
       }
     },
@@ -117,7 +117,7 @@
   },
   "accent": {
     "default": {
-      "value": "{brand.secondary.default}",
+      "value": "{colors.blue.400}",
       "type": "color"
     }
   },
@@ -128,29 +128,17 @@
     }
   },
   "brand": {
-    "primary": {
-      "default": {
-        "value": "{colors.black}",
-        "type": "color",
-        "hover": {
-          "value": "{colors.grey.800}",
-          "type": "color"
-        }
-      },
+    "primaryA": {
+      "value": "{colors.black}",
+      "type": "color",
       "hover": {
-        "value": "{colors.grey.900}",
+        "value": "{colors.grey.800}",
         "type": "color"
       }
     },
-    "secondary": {
-      "default": {
-        "value": "{colors.blue.400}",
-        "type": "color",
-        "hover": {
-          "value": "{colors.blue.500}",
-          "type": "color"
-        }
-      },
+    "primaryB": {
+      "value": "{colors.white}",
+      "type": "color",
       "hover": {
         "value": "{colors.blue.500}",
         "type": "color"
@@ -175,7 +163,7 @@
       "type": "color"
     },
     "active": {
-      "value": "{brand.secondary.default}",
+      "value": "{brand.primaryB}",
       "type": "color"
     },
     "subtle": {
