@@ -148,5 +148,27 @@
       "value": "{colors.red-orange.500}",
       "type": "color"
     }
+  },
+  "border": {
+    "default": {
+      "value": "{colors.white}",
+      "type": "color"
+    },
+    "active": {
+      "value": "{accent.default}",
+      "type": "color"
+    },
+    "subtle": {
+      "value": "{colors.grey.300}",
+      "type": "color"
+    },
+    "muted": {
+      "value": "{colors.grey.500}",
+      "type": "color"
+    },
+    "disable": {
+      "value": "{colors.grey.700}",
+      "type": "color"
+    }
   }
 }
