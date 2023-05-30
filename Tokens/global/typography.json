@@ -545,11 +545,11 @@
     "lower": {
       "value": "none",
       "type": "textCase"
+    },
+    "upper": {
+      "value": "uppercase",
+      "type": "textCase"
     }
-  },
-  "upper": {
-    "value": "uppercase",
-    "type": "textCase"
   },
   "text-decoration": {
     "strike": {
